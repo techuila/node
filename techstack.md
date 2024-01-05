@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 techuila/node is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Code Climate](https://codeclimate.com/) – Code Review
@@ -72,11 +73,13 @@ techuila/node is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 techuila/node is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/305/KFgYaUkK.png' alt='Code Climate'/> [Code Climate](https://codeclimate.com/) – Code Review
@@ -147,14 +150,15 @@ techuila/node is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [techuila/node](https://github.com/techuila/node)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|435<br/>Tools used|11/15/23 <br/>Report generated|
+|439<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -819,9 +823,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (358)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (362)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (358)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (362)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -896,6 +900,7 @@ Full tech stack [here](/techstack.md)
 |[browserify-istanbul](https://www.npmjs.com/browserify-istanbul)|v2.0.0|10/02/20|Myles Borins |MIT|N/A|
 |[buffer](https://www.npmjs.com/buffer)|v4.9.1|10/02/20|Myles Borins |MIT|N/A|
 |[buffer-equal](https://www.npmjs.com/buffer-equal)|v1.0.0|08/29/18|Kat Marchán |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|12/09/20|Ruy Adorno |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v0.22.0|04/02/17|Rich Trott |MIT|N/A|
 |[circular-json](https://www.npmjs.com/circular-json)|v0.3.3|03/30/21|Luigi Pinca |MIT|N/A|
 |[clang-format](https://www.npmjs.com/clang-format)|v1.2.3|07/13/18|Joyee Cheung |Apache-2.0|N/A|
@@ -1005,6 +1010,7 @@ Full tech stack [here](/techstack.md)
 |[has](https://www.npmjs.com/has)|v1.0.1|12/09/20|Ruy Adorno |MIT|N/A|
 |[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v2.8.4|03/23/21|Ruy Adorno |ISC|[CVE-2021-23362](https://github.com/advisories/GHSA-43f8-2h32-f4cj) (Moderate)|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.0|12/09/20|Ruy Adorno |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.14.3|12/09/20|Ruy Adorno |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|v2.3.5|10/02/20|Myles Borins |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|10/02/20|Myles Borins |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|v3.3.7|03/30/21|Luigi Pinca |MIT|N/A|
@@ -1048,6 +1054,7 @@ Full tech stack [here](/techstack.md)
 |[karma-sourcemap-loader](https://www.npmjs.com/karma-sourcemap-loader)|v0.3.6|01/28/21|Ruy Adorno |MIT|N/A|
 |[karma-webpack](https://www.npmjs.com/karma-webpack)|v4.0.2|01/28/21|Ruy Adorno |MIT|N/A|
 |[knox](https://www.npmjs.com/knox)|v0.8.10|10/02/20|Myles Borins |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v5.0.0|12/09/20|Ruy Adorno |MIT|N/A|
 |[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v0.6.0|03/30/21|Luigi Pinca |MIT|N/A|
 |[lodash.clonedeep](https://www.npmjs.com/lodash.clonedeep)|v4.5.0|11/04/20|Myles Borins |MIT|N/A|
 |[lodash.flatten](https://www.npmjs.com/lodash.flatten)|v4.4.0|03/30/21|Luigi Pinca |MIT|N/A|
@@ -1125,6 +1132,7 @@ Full tech stack [here](/techstack.md)
 |[rollup-plugin-typescript2](https://www.npmjs.com/rollup-plugin-typescript2)|v0.20.1|03/05/20|Matheus Marchini |MIT|N/A|
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.1.1|12/09/20|Ruy Adorno |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.4|12/09/20|Ruy Adorno |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v6.3.2|10/02/20|Myles Borins |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)|
 |[server-destroy](https://www.npmjs.com/server-destroy)|v1.0.1|10/29/15|Rebecca Turner |ISC|N/A|
 |[shelljs](https://www.npmjs.com/shelljs)|v0.7.8|11/29/20|Antoine du Hamel |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
 |[should](https://www.npmjs.com/should)|v8.4.0|10/02/20|Myles Borins |MIT|N/A|
@@ -1187,4 +1195,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
